@@ -1,4 +1,4 @@
-# Informe de Recuperación
+# Informe de recuperación
 
 ### Error simulado
 Se eliminó el archivo `errores.sh` y se realizó un commit del borrado, haciendo que el archivo desapareciera de la rama principal de trabajo.
